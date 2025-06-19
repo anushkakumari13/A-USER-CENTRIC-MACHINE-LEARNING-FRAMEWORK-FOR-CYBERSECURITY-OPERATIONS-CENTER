@@ -95,7 +95,7 @@ The project uses SVM for binary classification of risky vs non-risky users:
 
 - Preprocessing includes cleaning, labeling, and scaling alert data.
 - Trained model stored as `svm_model.pkl`.
-- Accuracy metrics and confusion matrices used for evaluation.
+- Accuracy metrics are used for evaluation.
 
 
 ## Future Enhancements
